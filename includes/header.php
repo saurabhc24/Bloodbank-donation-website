@@ -21,7 +21,7 @@
                 <a class="nav-link" href="search-donor.php" style="font-weight: bold; color: #ffe2e2">Search for Blood</a>
             </li>
                 <li class="nav-item">
-                <a class="nav-link" href="contact.php" style="font-weight: bold; color: #ffe2e2">Contact us</a>
+                <a class="nav-link" href="contact.php" style="font-weight: bold; color: #ffe2e2">Contgfgdgact us</a>
             </li>
               <li class="nav-item">
                 <a class="nav-link" href="page.php?type=aboutus" style="font-weight: bold; color: #ffe2e2">About Us</a>
