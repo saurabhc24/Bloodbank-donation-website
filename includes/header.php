@@ -23,9 +23,6 @@
                 <li class="nav-item">
                 <a class="nav-link" href="contact.php" style="font-weight: bold; color: #ffe2e2">Contgfgdgact us</a>
             </li>
-              <li class="nav-item">
-                <a class="nav-link" href="page.php?type=aboutus" style="font-weight: bold; color: #ffe2e2">About Us</a>
-            </li>
             </li>
                 <li class="nav-item">
                 <a class="nav-link" href="/bbdms/admin/index.php" target="_blank" style="font-weight: bold; color: #ffe2e2">Admin Panel</a>
